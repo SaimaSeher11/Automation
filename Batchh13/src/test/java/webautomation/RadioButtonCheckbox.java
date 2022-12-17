@@ -22,7 +22,7 @@ public class RadioButtonCheckbox extends BaseDriver {
 		gender.click();
 		checkbox1.click();
 		checkbox2.click();
-		Thread.sleep(5000);
+		Thread.sleep(4000);
 	
 	}
 	
